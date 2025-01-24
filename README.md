@@ -34,7 +34,7 @@ A comprehensive **Employee Management System** built using **HTML**, **CSS**, **
 ### Steps
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/ganesharige/react-project.git
    ```
 2. **Frontend**:
    - Navigate to the `frontend` folder:  
