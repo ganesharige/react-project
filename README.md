@@ -1,6 +1,4 @@
-Here's a detailed and professional description for your **Employee Management System** GitHub README file:
 
----
 
 # Employee Management System 🏢👨‍💼👩‍💼
 
